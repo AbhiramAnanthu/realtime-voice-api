@@ -1,0 +1,9 @@
+langchain
+langchain_google_genai
+boto3
+vosk
+websockets
+fastapi
+python-dotenv
+pyaudio
+uvicorn
