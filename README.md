@@ -45,8 +45,9 @@ A **Real-Time Voice Chat API** built in Python, leveraging WebSockets for commun
 
 ---
 ## Demo video 
-[LINK]("https://drive.google.com/file/d/1HvX8YjZ_DtHc44eRGdLWxqg_B6S9tLV3/view?usp=sharing")
+[LINK](https://drive.google.com/file/d/1HvX8YjZ_DtHc44eRGdLWxqg_B6S9tLV3/view?usp=sharing)
 
+## Prerequisites
 - Python 3.9 or higher
 - `pip` package manager
 - AWS credentials for Amazon Polly
